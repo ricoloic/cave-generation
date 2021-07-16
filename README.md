@@ -1,0 +1,1 @@
+![cave](https://i.imgur.com/lXdJjDz.png "A cave example")
